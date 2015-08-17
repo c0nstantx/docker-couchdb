@@ -1,5 +1,5 @@
 #
-# Rocketgraph web server (nginx)
+# Rocketgraph couchDB 1.6.1
 #
 
 # Pull base image.
